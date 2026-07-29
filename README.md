@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/OmenTonrem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=520&lines=Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Python+%26+Web+Geli%C5%9Ftirici;S%C3%BCrekli+%C3%96%C4%9Frenen+Biri" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=520&lines=Siber+G%C3%BCvenlik;Python+%26+Web+Geli%C5%9Ftirici" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -62,7 +62,17 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmenTonrem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmenTonrem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=OmenTonrem&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<!-- Snake katkı animasyonu (GitHub Action tarafından output dalında üretilir) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OmenTonrem/OmenTonrem/output/github-contribution-grid-snake-dark.svg" alt="Snake animasyonu"/>
 </p>
 
 <p align="center">
