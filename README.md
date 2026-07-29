@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <sub>Güvenlik, otomasyon ve web'in kesişiminde öğrenmeye ve inşa etmeye devam ediyorum.</sub>
+  <sub>🎓 Yazılım & siber güvenlik öğrencisi · Python, C++, Web · Öğrenmek için inşa ediyorum</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Konum-Türkiye-6c5ce7?style=flat-square" alt="Konum: Türkiye"/>
 </p>
 
 <p align="center">
