@@ -1,8 +1,12 @@
-<h1 align="center">👋 Merhaba, ben Omen</h1>
+<h1 align="center">👋 Merhaba, ben Berke</h1>
 
 <p align="center">
-  <b>Siber Güvenlik Meraklısı</b> · <b>Python & Web Geliştirici</b>
-  <br/>
+  <a href="https://github.com/OmenTonrem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=520&lines=Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Python+%26+Web+Geli%C5%9Ftirici;S%C3%BCrekli+%C3%96%C4%9Frenen+Biri" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
   <sub>Güvenlik, otomasyon ve web'in kesişiminde öğrenmeye ve inşa etmeye devam ediyorum.</sub>
 </p>
 
@@ -58,12 +62,11 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmenTonrem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmenTonrem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=OmenTonrem&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmenTonrem&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmenTonrem&theme=tokyo-night&bg_color=1a1b27&color=6c5ce7&line=6c5ce7&point=ffffff&hide_border=true&area=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="Aktivite Grafiği"/>
 </p>
 
 ---
